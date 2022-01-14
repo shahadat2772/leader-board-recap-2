@@ -201,7 +201,7 @@ hr{
 }
 /* header styles end */
 
-    @media only screen and (max-width:395px) {
+    @media only screen and (max-width:688px) {
         .header{
             background-color:#562EFF;
             height: 94px;
