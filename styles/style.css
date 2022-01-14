@@ -140,10 +140,10 @@ hr{
 .course{
     Width: 252.42px;
     Height: 269.79px;
-    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.24);
     background-color: #FFFFFF;
     border-radius: 10px;
-    margin-left: 28px;
+    margin-left: 19.23px;
 }
 .courses{
     display: grid;
@@ -169,7 +169,7 @@ hr{
     align-items: center;
 }
 .navigation{
-    width: 67%;
+    width: 66.70%;
 }
 .nav1{
     display: flex;
