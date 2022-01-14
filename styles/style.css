@@ -160,3 +160,42 @@ hr{
 
 /* Header styles */
 
+.header{
+    background-color:#562EFF;
+    height: 94px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigation{
+    width: 67%;
+}
+.nav1{
+    display: flex;
+    align-items: center;
+}
+.nav1 img{
+    Width: 40.42px;
+    Height: 51px;
+}
+.nav1 h1{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+.nav2 a{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-right: 36px;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav2{
+    display: flex;
+    align-items: center;
+}
